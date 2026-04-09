@@ -4,6 +4,12 @@
 
 This project presents an interactive Excel dashboard designed to analyze sales, profit, and customer behavior in an e-commerce business.
 
+🔹Dashboard Overview:
+![Dashboard](https://github.com/Rajkumarthombare/E_Commerce_Sales_analysis/blob/main/Screenshot%20(35).png)
+![Dashboard](https://github.com/Rajkumarthombare/E_Commerce_Sales_analysis/blob/main/Screenshot%20(36).png)
+![Dashboard](https://github.com/Rajkumarthombare/E_Commerce_Sales_analysis/blob/main/Screenshot%20(37).png)
+![Dashboard](https://github.com/Rajkumarthombare/E_Commerce_Sales_analysis/blob/main/Screenshot%20(38).png)
+
 🔹 Key Features
 
 * KPI Metrics (Sales, Profit, Quantity, Orders, Profit Margin)
