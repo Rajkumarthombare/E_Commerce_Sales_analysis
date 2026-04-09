@@ -35,10 +35,11 @@ This project presents an interactive Excel dashboard designed to analyze sales, 
 * Data Cleaning Techniques
 
 🔹 Files Included
-
 * Raw_data.xlsx
 * Clean_data.xlsx
 * Dashboard.xlsx
+  Click here to download:
+  ![Data file](https://github.com/Rajkumarthombare/E_Commerce_Sales_analysis/blob/main/Ecommerce%20Sales%20Analysis.xlsx)
 
 🔹 Learning Outcomes
 
